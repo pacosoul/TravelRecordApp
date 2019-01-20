@@ -16,4 +16,7 @@
   <ItemGroup>
     <Compile Remove="MyPage.xaml.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model\" />
+  </ItemGroup>
 </Project>

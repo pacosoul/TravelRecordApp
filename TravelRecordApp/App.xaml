@@ -3,9 +3,12 @@
     <Application.Resources>
         <ResourceDictionary>
             <Color x:Key="blueColor">#1E90FF</Color>
+            <Color x:Key="whiteColor">#FFFFFF</Color>
         </ResourceDictionary>
 
-        <style TargetType="Button">
-        </style>
+        <Style TargetType="Button" x:Key="normalButton">
+            <Setter Property="BackgroundColor" Value="{StaticResource blueColor}"></Setter>
+            <Setter Property="TextColor" Value="{StaticResource whiteColor}"></Setter>
+        </Style>
     </Application.Resources>
 </Application>

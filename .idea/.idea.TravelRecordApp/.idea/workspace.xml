@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aabfc5c-099c-4524-a0e4-4e04c112f68c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/animated_vector_drawable_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/appcompat_v7_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/cardview_v7_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/common_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/common_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/design_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/mediarouter_v7_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/palette_v7_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/recyclerview_v7_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/runtime_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/support_annotations_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/support_compat_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/support_core_ui_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/support_core_utils_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/support_fragment_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/support_media_compat_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/support_v4_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/support_vector_drawable_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/libraries/transition_27_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TravelRecordApp/TravelRecordApp.Android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelRecordApp/Model/Post.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelRecordApp.Android/MainActivity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelRecordApp.Android/MainActivity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelRecordApp.iOS/AppDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelRecordApp.iOS/AppDelegate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelRecordApp/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelRecordApp/App.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelRecordApp/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TravelRecordApp/App.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelRecordApp/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelRecordApp/MainPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelRecordApp/NewTravelPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelRecordApp/NewTravelPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelRecordApp/TravelRecordApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TravelRecordApp/TravelRecordApp.csproj" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TravelRecordApp/MainPage.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <marker date="1547949570000" expanded="true" signature="39:996" ph="&lt;&lt;StackLayout VerticalOptions=&quot;Center&quot;&#10;                 Margin=&quot;20&quot;&gt;&#10;        &lt;Entry x:Name=&quot;emailEntry&quot; Placeholder=&quot;Email Address&quot; Keyboard=&quot;Email&quot; &#10;               TextColor=&quot;{StaticResource blueColor}&quot;&#10;               Text=&quot;test&quot;/&gt;&#10;        &lt;Entry x:Name=&quot;passwordEntry&quot; Placeholder=&quot;Password&quot; IsPassword=&quot;true&quot;&#10;               TextColor=&quot;{StaticResource blueColor}&quot;&#10;               Text=&quot;test&quot;/&gt;&#10;        &lt;Button Text=&quot;Log in&quot; &#10;                x:Name=&quot;LoginButton&quot; &#10;                Clicked=&quot;LoginButton_Clicked&quot;&#10;                BackgroundColor=&quot;{StaticResource blueColor}&quot;&#10;                TextColor=&quot;White&quot;&#10;                Margin=&quot;0,50,0,0&quot;&#10;                Style=&quot;{StaticResource normalButton}&quot; /&gt;&#10;    &lt;/StackLayout&gt;.../&gt;" />
+                <marker date="1547949570000" expanded="true" signature="268:981" ph="&lt;&lt;Entry x:Name=&quot;emailEntry&quot; Placeholder=&quot;Email Address&quot; Keyboard=&quot;Email&quot; &#10;               TextColor=&quot;{StaticResource blueColor}&quot;&#10;               Text=&quot;test&quot;/&gt; &lt;Entry x:Name=&quot;passwordEntry&quot; Placeholder=&quot;Password&quot; IsPassword=&quot;true&quot;&#10;               TextColor=&quot;{StaticResource blueColor}&quot;&#10;               Text=&quot;test&quot;/&gt; &lt;Button Text=&quot;Log in&quot; &#10;                x:Name=&quot;LoginButton&quot; &#10;                Clicked=&quot;LoginButton_Clicked&quot;&#10;                BackgroundColor=&quot;{StaticResource blueColor}&quot;&#10;                TextColor=&quot;White&quot;&#10;                Margin=&quot;0,50,0,0&quot;&#10;                Style=&quot;{StaticResource normalButton}&quot; /&gt;.../&gt;" />
+                <marker date="1547949570000" expanded="true" signature="344:499" ph="&lt;.../&gt;" />
+                <marker date="1547949570000" expanded="true" signature="508:661" ph="&lt;.../&gt;" />
+                <marker date="1547949570000" expanded="true" signature="670:962" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelRecordApp.Android/MainActivity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="11" column="179" selection-start-line="11" selection-start-column="179" selection-end-line="11" selection-end-column="179" />
+              <folding>
+                <marker date="1547958081000" expanded="false" signature="6:159" ph="..." />
+                <marker date="1547958081000" expanded="true" signature="192:1083" ph="{...}" />
+                <marker date="1547958081000" expanded="true" signature="479:1081" ph="{...}" />
+                <marker date="1547958081000" expanded="true" signature="553:1075" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelRecordApp.iOS/AppDelegate.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <marker date="1547958942000" expanded="false" signature="6:115" ph="..." />
+                <marker date="1547958942000" expanded="true" signature="146:1407" ph="{...}" />
+                <marker date="1547958942000" expanded="true" signature="153:378" ph="/* The UIApplicationDelegate for the application. This class is responsible for launching the ... */" />
+                <marker date="1547958942000" expanded="true" signature="507:1405" ph="{...}" />
+                <marker date="1547958942000" expanded="true" signature="522:859" ph="/* This method is invoked when the application has loaded and is ready to run. In this ... */" />
+                <marker date="1547958942000" expanded="true" signature="947:1399" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TravelRecordApp.iOS/Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TravelRecordApp/MainPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TravelRecordApp.iOS/AppDelegate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TravelRecordApp.Android/MainActivity.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TravelRecordApp.iOS/AppDelegate.cs" />
+        <option value="$PROJECT_DIR$/TravelRecordApp.Android/MainActivity.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="TravelRecordApp.Android/invalid/Android Facet - TravelRecordApp.Android" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TravelRecordApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TravelRecordApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TravelRecordApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TravelRecordApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TravelRecordApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MainPage.xaml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TravelRecordApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TravelRecordApp.Android" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TravelRecordApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TravelRecordApp.iOS" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Xamarin.iOS.iOS Default">
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TravelRecordApp.Android/TravelRecordApp.Android.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TravelRecordApp.iOS/TravelRecordApp.iOS.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEFAULT_IPHONE_DEVICE" value="" />
+      <option name="DEFAULT_IPHONE_SIMULATOR" value="" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Simulator" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Xamarin.Android.Android Default" />
+      <item itemvalue="Xamarin.iOS.iOS Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aabfc5c-099c-4524-a0e4-4e04c112f68c" name="Default Changelist" comment="" />
+      <created>1547955801966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547955801966</updated>
+      <workItem from="1547955812256" duration="1514000" />
+      <workItem from="1547961482647" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1762000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24555735" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Build" order="8" visible="true" weight="0.32944608" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32944608" />
+      <window_info anchor="bottom" id="NuGet" order="12" />
+      <window_info anchor="bottom" id="Logcat" order="13" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Errors In Solution" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TravelRecordApp.iOS/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1547049606000" expanded="false" signature="6:98" ph="..." />
+            <marker date="1547049606000" expanded="true" signature="129:485" ph="{...}" />
+            <marker date="1547049606000" expanded="true" signature="160:483" ph="{...}" />
+            <marker date="1547049606000" expanded="true" signature="266:477" ph="{...}" />
+            <marker date="1547049606000" expanded="true" signature="289:408" ph="/* if you want to use a different Application Delegate class from &quot;AppDelegate&quot; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelRecordApp.Android/MainActivity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="11" column="179" selection-start-line="11" selection-start-column="179" selection-end-line="11" selection-end-column="179" />
+          <folding>
+            <marker date="1547958081000" expanded="false" signature="6:159" ph="..." />
+            <marker date="1547958081000" expanded="true" signature="192:1083" ph="{...}" />
+            <marker date="1547958081000" expanded="true" signature="479:1081" ph="{...}" />
+            <marker date="1547958081000" expanded="true" signature="553:1075" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelRecordApp.iOS/AppDelegate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <marker date="1547958942000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1547958942000" expanded="true" signature="146:1407" ph="{...}" />
+            <marker date="1547958942000" expanded="true" signature="153:378" ph="/* The UIApplicationDelegate for the application. This class is responsible for launching the ... */" />
+            <marker date="1547958942000" expanded="true" signature="507:1405" ph="{...}" />
+            <marker date="1547958942000" expanded="true" signature="522:859" ph="/* This method is invoked when the application has loaded and is ready to run. In this ... */" />
+            <marker date="1547958942000" expanded="true" signature="947:1399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelRecordApp/MainPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <marker date="1547949570000" expanded="true" signature="39:996" ph="&lt;&lt;StackLayout VerticalOptions=&quot;Center&quot;&#10;                 Margin=&quot;20&quot;&gt;&#10;        &lt;Entry x:Name=&quot;emailEntry&quot; Placeholder=&quot;Email Address&quot; Keyboard=&quot;Email&quot; &#10;               TextColor=&quot;{StaticResource blueColor}&quot;&#10;               Text=&quot;test&quot;/&gt;&#10;        &lt;Entry x:Name=&quot;passwordEntry&quot; Placeholder=&quot;Password&quot; IsPassword=&quot;true&quot;&#10;               TextColor=&quot;{StaticResource blueColor}&quot;&#10;               Text=&quot;test&quot;/&gt;&#10;        &lt;Button Text=&quot;Log in&quot; &#10;                x:Name=&quot;LoginButton&quot; &#10;                Clicked=&quot;LoginButton_Clicked&quot;&#10;                BackgroundColor=&quot;{StaticResource blueColor}&quot;&#10;                TextColor=&quot;White&quot;&#10;                Margin=&quot;0,50,0,0&quot;&#10;                Style=&quot;{StaticResource normalButton}&quot; /&gt;&#10;    &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1547949570000" expanded="true" signature="268:981" ph="&lt;&lt;Entry x:Name=&quot;emailEntry&quot; Placeholder=&quot;Email Address&quot; Keyboard=&quot;Email&quot; &#10;               TextColor=&quot;{StaticResource blueColor}&quot;&#10;               Text=&quot;test&quot;/&gt; &lt;Entry x:Name=&quot;passwordEntry&quot; Placeholder=&quot;Password&quot; IsPassword=&quot;true&quot;&#10;               TextColor=&quot;{StaticResource blueColor}&quot;&#10;               Text=&quot;test&quot;/&gt; &lt;Button Text=&quot;Log in&quot; &#10;                x:Name=&quot;LoginButton&quot; &#10;                Clicked=&quot;LoginButton_Clicked&quot;&#10;                BackgroundColor=&quot;{StaticResource blueColor}&quot;&#10;                TextColor=&quot;White&quot;&#10;                Margin=&quot;0,50,0,0&quot;&#10;                Style=&quot;{StaticResource normalButton}&quot; /&gt;.../&gt;" />
+            <marker date="1547949570000" expanded="true" signature="344:499" ph="&lt;.../&gt;" />
+            <marker date="1547949570000" expanded="true" signature="508:661" ph="&lt;.../&gt;" />
+            <marker date="1547949570000" expanded="true" signature="670:962" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
