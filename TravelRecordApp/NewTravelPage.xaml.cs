@@ -4,6 +4,8 @@ using TravelRecordApp.Model;
 using SQLite;
 
 using Xamarin.Forms;
+using Plugin.Geolocator;
+using TravelRecordApp.Logic;
 
 namespace TravelRecordApp
 {
@@ -12,6 +14,17 @@ namespace TravelRecordApp
         public NewTravelPage()
         {
             InitializeComponent();
+        }
+
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
+
+            var locator = CrossGeolocator.Current;
+            var position = await locator.GetPositionAsync();
+
+            var venues = await VenueLogic.GetVenues(position.Latitude, position.Longitude);
+            Console.Write(venues);
         }
 
         private void ToolbarItem_Clicked(object sender, EventArgs e)
